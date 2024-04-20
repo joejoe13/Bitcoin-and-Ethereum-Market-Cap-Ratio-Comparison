@@ -41,10 +41,3 @@ Contributions to improve the code or add new features are welcome. Please fork t
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-### Disclaimer
-
-This code is provided for educational and informational purposes only. It is not intended to be used as financial advice. Users should conduct their own research and consult with a financial advisor before making any investment decisions.
-
-For questions or further information, please contact [your email address].
-
-**Happy coding!**
